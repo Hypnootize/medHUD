@@ -40,7 +40,7 @@
         "tall"          "24"
         "visible"       "0"
         "enabled"       "0"
-        "image"         "../hud/health_equips_bg"
+        "image"         ""
         "textAlignment" "center"
         "scaleImage"    "1" 
     }   
