@@ -396,7 +396,7 @@
         
         if_mvm
         {
-            "ypos"          "68"
+            "visible"       "0"
         }
     }
     "ServerTimeLeft"
@@ -421,9 +421,9 @@
         "visible"       "0" [$X360]
         "enabled"       "1"
         
-        if_mvm
+         if_mvm
         {
-            "ypos"          "80"
+            "visible"       "0"
         }
     }
     "ServerTimeLeftBG"
@@ -584,7 +584,7 @@
         
         if_mvm
         {
-            "visible"       "1"
+            "wide"       "0"
         }
     }
     "ClassImage"    
@@ -904,7 +904,7 @@
         
         if_mvm
         {
-            "visible"       "1"
+            "wide"       "0"
         }
 
         "KillsLabel"
@@ -1821,8 +1821,8 @@
     {
         "ControlName"       "CTFHudMannVsMachineScoreboard"
         "fieldName"         "MvMScoreboard"
-        "xpos"              "100"
-        "ypos"              "5"
+        "xpos"              "127"
+        "ypos"              "2"
         "zpos"              "10"
         "wide"              "f0"
         "tall"              "480"

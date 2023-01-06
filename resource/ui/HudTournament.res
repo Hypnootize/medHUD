@@ -946,7 +946,7 @@
 		
 		"if_mvm" 
 		{
-			"visible"	"1"
+			"visible"	"0"
 			"enabled"	"1"
 			"xpos"		"c-20"
 		}
@@ -988,7 +988,7 @@
 		
 		"if_mvm" 
 		{
-			"visible"	"1"
+			"visible"	"0"
 			"enabled"	"1"
 			"xpos"		"c-20"
 		}
@@ -1032,7 +1032,7 @@
 		
 		"if_mvm" 
 		{
-			"visible"	"1"
+			"visible"	"0"
 			"enabled"	"1"
 			"xpos"		"c-20"
 		}
