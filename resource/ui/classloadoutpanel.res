@@ -7,7 +7,7 @@
     "C_LBG"
     {
         "ControlName"   "ImagePanel"
-        "fieldName"     "Background"
+        "fieldName"     "C_LBG"
         "xpos"          "r0"
         "ypos"          "r0"
         "zpos"          "-7"
@@ -136,7 +136,7 @@
         "visible"       "0"
         "enabled"       "0"
         "tabPosition"   "0"
-        "settitlebarvisible"    "0"
+        "settitlebarvisible"    "1"
         "PaintBackgroundType"   "0"
         "bgcolor_override"  "46 43 42 0"
         "infocus_bgcolor_override" "46 43 42 0"
